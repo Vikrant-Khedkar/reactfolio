@@ -16,9 +16,8 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
-		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+		title: "Backend and Web3 Developer and a Pokemon Master!",
+		description: "As a seasoned Backend and Web3 developer, I bring a wealth of experience and expertise to the dynamic world of web development. My journey in coding began with a passion for crafting robust and efficient backend systems, where I honed my skills in designing and optimizing server-side logic. Embracing the decentralized future, I seamlessly transitioned into the realm of Web3 development, exploring blockchain technologies, smart contracts, and decentralized applications (DApps). My proficiency extends to a diverse tech stack, allowing me to architect scalable and secure solutions that bridge traditional backend functionality with the innovative possibilities of blockchain.I am dedicated to pushing the boundaries of what's possible in the ever-evolving landscape of web development and contributing to the transformative potential of decentralized technologies..",
 	},
 
 	about: {
