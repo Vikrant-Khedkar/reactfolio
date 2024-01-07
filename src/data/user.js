@@ -1,16 +1,16 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Portfolio",
+		name: "Vikrant Khedkar",
+		email: "vikrantkhedkar2720@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
+		twitter: "https://twitter.com/VikrantKhedkar",
+		github: "https://github.com/Vikrant-Khedkar",
+		linkedin: "https://www.linkedin.com/in/vikrant-khedkar-9b28951a3/",
+		instagram: "https://instagram.com/Vikrant.Khedkar",
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
 	},
@@ -21,9 +21,9 @@ const INFO = {
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I’m Vikrant Khedkar a Software Engineer",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"I have been working on backend delopment and have worked on various projects in the domain. Currently exploring the thriving Web3.0 space. Iam having my fun i hope you are too. Cheers! ",
 	},
 
 	articles: {
